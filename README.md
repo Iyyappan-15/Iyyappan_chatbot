@@ -90,8 +90,8 @@ source venv/bin/activate     # macOS/Linux
 venv\Scripts\activate        # Windows
 
 3. Install Dependencies
-pip install -r requirements.txt
-requirements.txt :
+pip install -r requirements.txt.        
+The requirements.txt :
 streamlit
 langchain
 langchain-groq
